@@ -1,0 +1,16 @@
+body{
+  
+  background-color: #CCCCCC;
+}
+div{
+  width: 600px;
+  margin: auto;
+}
+.emphasis{
+  text-align: center;
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
